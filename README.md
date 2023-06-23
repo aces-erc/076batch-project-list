@@ -21,9 +21,13 @@
   > PranilDhakal<br />
 * [PySnake](https://github.com/abhiverse01/PySnake)
   > AbhisekhShah,<br/>
-  > AachalShah,<br/>
+  > AachalShah<br/>
 * [Emotion Detection](https://github.com/kaagaj-bottle/emotion-detection-project-ml-endpoint)
   > Zishan Siddique,<br />
   > Sandip Pariyar,<br />
   > Venus Bastola,<br />
-  > Sushant Phagu,<br />
+  > Sushant Phagu<br />
+* [IOE Entrance Booster](https://github.com/Sashi1761/IOE-ENTRACE-BOOSTER/tree/master)
+  > ShashiPuri,<br />
+  > PratikChaulagain,<br/>
+  > SurajKabirath<br/>
